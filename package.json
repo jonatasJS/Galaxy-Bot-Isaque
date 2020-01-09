@@ -1,0 +1,21 @@
+{
+  "name": "galaxy-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ffmpeg-binaries": "^4.0.0",
+    "jimp": "^0.6.8",
+    "lowdb": "^1.0.0",
+    "node-opus": "^0.3.0",
+    "simple-youtube-api": "^5.2.1",
+    "yt-search": "^0.1.4",
+    "ytdl-core": "^0.24.0"
+  }
+}
